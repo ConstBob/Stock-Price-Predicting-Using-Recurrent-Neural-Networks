@@ -32,26 +32,27 @@ https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-sto
 
 实验代码和文件：
 
-`predicting-stock-price-using-bilstm-model-pytorch.ipynb`: 基于BiLSTM的股票预测代码
-`predicting-stock-price-using-gru-model-pytorch.ipynb`: 基于GRU的股票预测代码
-`predicting-stock-price-using-lstm-model-pytorch.ipynb`: 基于LSTM的股票预测代码
-`predicting-stock-price-using-rnn-model-pytorch.ipynb`: 基于RNN的股票预测代码
-`archive`目录: Huge Stock Market数据集
+- `predicting-stock-price-using-bilstm-model-pytorch.ipynb`: 基于BiLSTM的股票预测代码
+- `predicting-stock-price-using-gru-model-pytorch.ipynb`: 基于GRU的股票预测代码
+- `predicting-stock-price-using-lstm-model-pytorch.ipynb`: 基于LSTM的股票预测代码
+- `predicting-stock-price-using-rnn-model-pytorch.ipynb`: 基于RNN的股票预测代码
+- `archive`目录: Huge Stock Market数据集
 
 ## 实验结果
 
 RNN:
 
-![rnn](./rnn.png)
+![rnn](https://user-images.githubusercontent.com/81414067/210558711-d8077cdb-b7a7-46a4-8b96-e16f837841e6.png)
 
 LSTM:
 
-![lstm](./lstm.png)
+![lstm](https://user-images.githubusercontent.com/81414067/210558731-b34f93b6-f19c-4f96-b0d1-31bb1e1768da.png)
 
 GRU:
 
-![gru](./gru.png)
+![gru](https://user-images.githubusercontent.com/81414067/210558774-d2bf715d-691d-40b6-91da-9bc95e208279.png)
 
 BiLSTM:
 
-![bilstm](./bilstm.png)
+![bilstm](https://user-images.githubusercontent.com/81414067/210558810-a7f47263-bf8a-413f-b838-bab019065b4f.png)
+
