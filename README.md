@@ -32,11 +32,11 @@ https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-sto
 
 实验代码和文件：
 
-- [`predicting-stock-price-using-bilstm-model-pytorch.ipynb`](https://github.com/ConstBob/Stock-Price-Predicting-Using-Recurrent-Neural-Networks/blob/main/predicting-stock-price-using-bilstm-model-pytorch.ipynb): 基于BiLSTM的股票预测代码
-- `predicting-stock-price-using-gru-model-pytorch.ipynb`: 基于GRU的股票预测代码
-- `predicting-stock-price-using-lstm-model-pytorch.ipynb`: 基于LSTM的股票预测代码
-- `predicting-stock-price-using-rnn-model-pytorch.ipynb`: 基于RNN的股票预测代码
-- `archive`目录: Huge Stock Market数据集
+- [predicting-stock-price-using-bilstm-model-pytorch.ipynb](https://github.com/ConstBob/Stock-Price-Predicting-Using-Recurrent-Neural-Networks/blob/main/predicting-stock-price-using-bilstm-model-pytorch.ipynb): 基于BiLSTM的股票预测代码
+- [predicting-stock-price-using-gru-model-pytorch.ipynb](https://github.com/ConstBob/Stock-Price-Predicting-Using-Recurrent-Neural-Networks/blob/main/predicting-stock-price-using-gru-model-pytorch.ipynb): 基于GRU的股票预测代码
+- [predicting-stock-price-using-lstm-model-pytorch.ipynb](https://github.com/ConstBob/Stock-Price-Predicting-Using-Recurrent-Neural-Networks/blob/main/predicting-stock-price-using-lstm-model-pytorch.ipynb): 基于LSTM的股票预测代码
+- [predicting-stock-price-using-rnn-model-pytorch.ipynb](https://github.com/ConstBob/Stock-Price-Predicting-Using-Recurrent-Neural-Networks/blob/main/predicting-stock-price-using-rnn-model-pytorch.ipynb): 基于RNN的股票预测代码
+- `archive`目录: Huge Stock Market数据集（可于原网站下载）
 
 ## 实验结果
 
